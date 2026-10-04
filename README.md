@@ -15,8 +15,7 @@ Es el mismo juego aprobado: no se tocaron preguntas, textos, ruleta, colores, ti
 | **📥 IMPORTAR RESPALDO** | Recupera registros desde un respaldo (no borra ni duplica nada) |
 | Doble guardado | Cada registro se guarda en `localStorage` **y** en IndexedDB; si uno se pierde, se recupera del otro |
 
-También se corrigió el logo transparente (resultado, reunión y esquina inferior), que venía dañado en el prototipo y no se veía.
-Ahora usa el mismo logo del encabezado.
+También se restauró el logo transparente (resultado, reunión y esquina inferior), que venía dañado en el prototipo y no se veía.
 
 ## Publicar (una sola vez)
 
